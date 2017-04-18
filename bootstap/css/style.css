@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+.red{background-color:red;}
+.green{background-color:green;}
+.yellow{background-color:yellow;}
+.red,.green,.yellow{
+	padding:10px;
+	border: 1px solid grey;
+}
+
+.body body{ padding:margin;}
+div.well p{ font-size: 1.2em;
+            margin-top:10px; }
+div.well p{ background-color: transparent;
+            color:black; 
+		    margin-top:10px;
+		 }
+
+.banner{ background:url(../im/nut.jpg) no-repeat 0px 0px;
+         background-size:cover;
+		 min-height:700px;
+		 background-position:center center;
+}
+
+.btn{ border-radius: 0px; }
+.btn-rigth{ float:right;}
+
