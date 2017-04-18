@@ -1,0 +1,37 @@
+.red{background-color: red;}
+.green{background-color: green;}
+.blue{background-color: blue;}
+.red , .green, .blue{
+  padding: 10px;
+  border: 1px solid grey;
+}
+div.well{
+	margin-top: 80px
+}
+
+div.well p{
+	font-size: 1.2em;
+}
+
+.clear {
+	margin-bottom: 20px;
+}
+
+.banner{
+	background: url(../img/img_1.JPG) no-repeat 0px 0px;
+	background-size: cover;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	-moz-background-size:cover;
+	min-height: 700px;
+	background-position: center center;
+}
+/* เปลี่ยนความโค้งปุ่ม */
+.btn{
+	border-radius: 0px;
+}
+
+.btn-right{
+	float:right;
+}
